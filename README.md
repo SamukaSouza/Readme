@@ -3,8 +3,8 @@
 Sou um entusiasta de programação em busca de aprimorar minhas habilidades.
 Estou animado para explorar linguagens de programação em geral.
 
-* 📚 Cursando **Ciência da Computação**;
-* 🍃 Apaixonado por **Natureza**;
+* 📚 Cursando **Ciência da Computação**
+* 🍃 Apaixonado por **Natureza**
 * 🗺️ Falou em viajar, é comigo mesmo!
 * 💻​ Atualmente estou aprendendo:
 
